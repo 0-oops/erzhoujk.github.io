@@ -45,6 +45,23 @@ github_username: erzhoujk
 location: China
 email: ezhoujk@gmail.com
 
+# SNS
+SNS: true
+SNS-icon: #['mail', 'weixin', 'QQ', 'weibo', 'instagram', 'twitter', 'github', 'Dribbble' 'facebook', 'Google', 'zhihu', 'juejin', 'twitch']
+  mail: 'mailto:abc@gmail.com'
+  weixin: '' # your wechat image file path
+  QQ: '' # your QQ image file path
+  weibo: ''
+  instagram: ''
+  twitter: ''
+  github: ''
+  Dribbble: ''
+  facebook: ''
+  Google: ''
+  zhihu: ''
+  juejin: ''
+  twitch: ''
+
 # ---------------- #
 #    Navigation    #
 # ---------------- #
